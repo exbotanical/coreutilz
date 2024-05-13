@@ -1,0 +1,14 @@
+{
+  "name": "coreutilz",
+  "version": "0.0.1",
+  "author": "Matthew Zito",
+  "repo": "exbotanical/coreutilz",
+  "license": "MIT",
+  "description": "",
+  "keywords": [],
+  "install": "echo TODO",
+  "uninstall": "echo TODO",
+  "development": {
+    "exbotanical/libtap": "*"
+  }
+}
